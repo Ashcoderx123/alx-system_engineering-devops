@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmdo -R +X
+chmod -R +X
