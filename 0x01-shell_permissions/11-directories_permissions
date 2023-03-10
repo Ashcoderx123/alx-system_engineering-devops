@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmdo -R ugo+x dir0/dir1/dir2
+sudo chmdo -R ugo+x /tmp/
