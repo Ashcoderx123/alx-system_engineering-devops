@@ -1,0 +1,2 @@
+#!/bin/bash
+chmdo ugo+x dir0 dir1 dir2
